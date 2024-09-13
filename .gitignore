@@ -161,7 +161,7 @@ cython_debug/
 
 
 # ignore files
-pretrained_weights/
+pretrained_weight/
 LaMed/output/
 train_clip.sh
 pretrain.sh
