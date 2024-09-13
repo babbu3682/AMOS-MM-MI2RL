@@ -17,4 +17,4 @@ Sunggu Kyung, Hyunseok Lim, Yoojin Nam, Kanghoun Lee, Kanghyun Kim, Taehee Kwon
 We appreciate open-source projects including: 
 [M3D](https://github.com/BAAI-DCAI/M3D),
 [LLaVA](https://github.com/haotian-liu/LLaVA),
-[LLaMA](https://github.com/meta-llama/llama3),
+[LLaMA](https://github.com/meta-llama/llama3)
