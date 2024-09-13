@@ -2,6 +2,12 @@
 <font size=3><div align='center' > [**Model**](https://huggingface.co/babbu3682/AMOS-MM-MI2RL-Solution1) | [**Code**](https://github.com/babbu3682/AMOS-MM-MI2RL)</div></font>
 This code is the 3rd place solution for the MICCAI 2024 AMOS-MM Challenge. It is based on the M3D model and utilizes the LLaMA-3.1-Instruct-7B.
 
+# Teamname: 
+MI2RL
+
+# Authors:
+Sunggu Kyung, Hyunseok Lim, Yoojin Nam, Kanghoun Lee, Kanghyun Kim, Taehee Kwon
+
 # Novelty:
 * We divided the body into three regions: chest, abdomen, and pelvis. This allowed us to focus more effectively on these areas and further improve performance through text prompt engineering.
 * The introduction of LLaMA-3.1-8B-Instruct significantly boosted MRG and VQA performance.
